@@ -13,7 +13,7 @@
    - Chrome：[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
      
 
-   - Firefox：[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - Firefox：[Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey)
    
 
 2. 从GreasyFork安装[discord黑白名单](https://greasyfork.org/zh-CN/scripts/420853-discord%E9%BB%91%E7%99%BD%E5%90%8D%E5%8D%95)脚本
