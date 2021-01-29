@@ -12,9 +12,6 @@
 // @require    https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.3/pako.min.js
 // ==/UserScript==
 
-//Bug记录：仍然会出现查看相似用户时，用户名是空白的情况
-
-
 (function () {
     'use strict';
     let config = { "alertTH": 0.7 };
@@ -348,8 +345,8 @@
             </div>            
         </div>
         <pre class="logarea">
-        <center>Star this project on <a href="https://github.com/victornpb/deleteDiscordMessages" target="_blank">github.com/victornpb/deleteDiscordMessages</a>!\n\n
-        <a href="https://github.com/victornpb/deleteDiscordMessages/issues" target="_blank">Issues or help</a>
+        <center>Star this project on <a href="https://github.com/mplugin/discordwblist" target="_blank">github.com/mplugin/discordwblist</a>!\n\n
+        <a href="https://github.com/mplugin/discordwblist/issues" target="_blank">Issues or help</a>
                     </center>
         </pre>
     </div>
